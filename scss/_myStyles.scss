@@ -1,0 +1,8 @@
+.content{
+	@media (min-width: 600px){
+		@include grid-column(5);
+	}
+	@media (min-width: 1200px){
+		@include grid-column(9);
+	}
+}

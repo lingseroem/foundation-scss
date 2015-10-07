@@ -1,7 +1,7 @@
 # Foundation Compass Template
 
 The easiest way to get started with Foundation + Compass.
-And in works in a pure serverside environment! Have a look at the scss folder.
+And it works in a pure serverside environment! Have a look at the scss folder.
 
 ## Requirements
 
